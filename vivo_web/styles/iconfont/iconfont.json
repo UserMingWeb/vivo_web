@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "68232",
+      "name": "关注，猫客",
+      "font_class": "guanzhu",
+      "unicode": "f00a4",
+      "unicode_decimal": 983204
+    },
+    {
+      "icon_id": "144688",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "145491",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "2696593",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "4166061",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "6196898",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "6977958",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "9731177",
+      "name": "客服",
+      "font_class": "kefu1",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "13744033",
+      "name": "vivo",
+      "font_class": "vivo",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    }
+  ]
+}
